@@ -10,16 +10,12 @@ Areas of interest:
 
 ## Featured Projects
 
-Header-only C++ library for pretty-printing STL containers and tuple-like types  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=pretty_view)](https://github.com/r0masaN/pretty_view)
 
-Simplified implementation of `std::function` using type erasure  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=my_function)](https://github.com/r0masaN/my_function)
 
-High-performance multithreaded CLI tool using memory-mapped files and WinAPI 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines)](https://github.com/r0masaN/Count-File-Lines)
 
-Road traffic simulation with autonomous agents  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation)](https://github.com/r0masaN/Traffic-Simulation)
 
 ## Portfolio
