@@ -16,6 +16,8 @@ Areas of interest:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines)](https://github.com/r0masaN/Count-File-Lines)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=tied_streambuf)](https://github.com/r0masaN/tied_streambuf)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation)](https://github.com/r0masaN/Traffic-Simulation)
 
 ## Portfolio
