@@ -10,11 +10,18 @@ Areas of interest:
 
 ## Featured Projects
 
-
-| | | |
-| :---: | :---: | :---: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=pretty_view)](https://github.com/r0masaN/pretty_view) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=my_function)](https://github.com/r0masaN/my_function) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines)](https://github.com/r0masaN/Count-File-Lines) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=tied_streambuf)](https://github.com/r0masaN/tied_streambuf) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=click_box)](https://github.com/r0masaN/click_box) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation)](https://github.com/r0masaN/Traffic-Simulation) |
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/r0masaN/pretty_view"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=pretty_view" alt="pretty_view" /></a></td>
+    <td><a href="https://github.com/r0masaN/my_function"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=my_function" alt="my_function" /></a></td>
+    <td><a href="https://github.com/r0masaN/Count-File-Lines"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines" alt="Count-File-Lines" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/r0masaN/tied_streambuf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=tied_streambuf" alt="tied_streambuf" /></a></td>
+    <td><a href="https://github.com/r0masaN/click_box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=click_box" alt="click_box" /></a></td>
+    <td><a href="https://github.com/r0masaN/Traffic-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation" alt="Traffic-Simulation" /></a></td>
+  </tr>
+</table>
 
 ## Portfolio
 
