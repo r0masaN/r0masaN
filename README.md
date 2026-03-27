@@ -10,15 +10,11 @@ Areas of interest:
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=pretty_view)](https://github.com/r0masaN/pretty_view)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=my_function)](https://github.com/r0masaN/my_function)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines)](https://github.com/r0masaN/Count-File-Lines)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=tied_streambuf)](https://github.com/r0masaN/tied_streambuf)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation)](https://github.com/r0masaN/Traffic-Simulation)
+| | | |
+| :---: | :---: | :---: |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=pretty_view)](https://github.com/r0masaN/pretty_view) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=my_function)](https://github.com/r0masaN/my_function) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Count-File-Lines)](https://github.com/r0masaN/Count-File-Lines) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=tied_streambuf)](https://github.com/r0masaN/tied_streambuf) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=click_box)](https://github.com/r0masaN/click_box) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r0masaN&repo=Traffic-Simulation)](https://github.com/r0masaN/Traffic-Simulation) |
 
 ## Portfolio
 
